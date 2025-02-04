@@ -16,24 +16,24 @@ import { MdOutlineVilla } from "react-icons/md";
 
 export const categories = [
   {
-    label: "Beach",
-    icon: TbBeach,
-    description: "This property is close to the beach!",
-  },
-  {
-    label: "Windmills",
-    icon: GiWindmill,
-    description: "This property has a windmills!",
-  },
-  {
-    label: "Modern",
+    label: "Condominium",
     icon: MdOutlineVilla,
-    description: "This property is modern!",
+    description: "This property is a condominium.",
   },
   {
-    label: "Countryside",
-    icon: TbMountain,
-    description: "This property is in the countryside!",
+    label: "Apartments",
+    icon: MdOutlineVilla,
+    description: "This property is an apartment.",
+  },
+  {
+    label: "Hotel",
+    icon: GiCastle,
+    description: "This property is a hotel.",
+  },
+  {
+    label: "Resorts",
+    icon: TbBeach,
+    description: "This property is a resort.",
   },
   {
     label: "Pools",
